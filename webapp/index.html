@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ur III Ledger — Puzriš-Dagan · Bronze Age Books</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <nav class="sidebar">
+    <div class="brand">
+      <div class="logo">🏛️</div>
+      <h1>Ur III Ledger</h1>
+      <p>Puzriš-Dagan · c. 2056–2004 BCE</p>
+    </div>
+    <div class="nav" id="nav">
+      <div class="sec">Home</div>
+      <a href="#/dashboard" data-r="dashboard"><span class="ico">📊</span><span class="tx">Dashboard</span></a>
+      <div class="sec">Accounting</div>
+      <a href="#/chart-of-accounts" data-r="chart-of-accounts"><span class="ico">🗂️</span><span class="tx">Chart of Accounts</span></a>
+      <a href="#/general-ledger" data-r="general-ledger"><span class="ico">📒</span><span class="tx">General Ledger</span></a>
+      <div class="sec">Reports</div>
+      <a href="#/profit-loss" data-r="profit-loss"><span class="ico">📈</span><span class="tx">Profit &amp; Loss</span></a>
+      <a href="#/balance-sheet" data-r="balance-sheet"><span class="ico">⚖️</span><span class="tx">Balance Sheet</span></a>
+      <a href="#/trial-balance" data-r="trial-balance"><span class="ico">🧮</span><span class="tx">Trial Balance</span></a>
+      <a href="#/cash-flow" data-r="cash-flow"><span class="ico">💧</span><span class="tx">Cash Flow</span></a>
+      <a href="#/ar-aging" data-r="ar-aging"><span class="ico">📥</span><span class="tx">A/R Aging</span></a>
+      <a href="#/ap-aging" data-r="ap-aging"><span class="ico">📤</span><span class="tx">A/P Aging</span></a>
+      <a href="#/register" data-r="register"><span class="ico">📜</span><span class="tx">Transaction Register</span></a>
+      <div class="sec">Assurance</div>
+      <a href="#/audit" data-r="audit"><span class="ico">🖋️</span><span class="tx">Auditor's Attestation</span></a>
+    </div>
+    <div class="side-foot">Reconstructed from 15,745 cuneiform tablets · CDLI</div>
+  </nav>
+  <div class="main">
+    <div class="topbar">
+      <h2 id="viewTitle">Dashboard</h2>
+      <span class="archive-badge">● Drehem · audited</span>
+      <span class="archive-badge pending">○ Umma · in audit</span>
+      <span class="archive-badge pending">○ Girsu · in audit</span>
+      <span class="spacer"></span>
+      <span class="date">Fiscal year-end: Ibbi-Suen 4</span>
+    </div>
+    <div class="content" id="content"></div>
+  </div>
+</div>
+<script src="data/summary.js"></script>
+<script src="data/accounts.js"></script>
+<script src="data/pl.js"></script>
+<script src="data/trial_balance.js"></script>
+<script src="data/tb_year.js"></script>
+<script src="data/gl.js"></script>
+<script src="data/aging.js"></script>
+<script src="data/aging_ap.js"></script>
+<script src="data/entities.js"></script>
+<script src="data/chunks.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

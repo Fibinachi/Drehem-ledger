@@ -47,8 +47,9 @@ Negative = missing inflow records (the archival-formation signal), not debt.
 | File | Contents |
 |---|---|
 | `Drehem_Ledger.xlsx` | 7-sheet workbook (download to view) |
-| `ledger/drehem-ledger.db` | SQLite database |
-| `ledger/csv/` | CSV exports of all tables |
+| `ledger.db` | SQLite database — 59,574 transactions, 4,227 entities |
+| `webapp/` | QuickBooks-style browser app (open `index.html`, no server needed) |
+| `docs/` | Forensic audit report, literature reviews, parser methodology |
 | `scripts/` | Parser, ledger builder, analysis scripts |
 
 ## Method

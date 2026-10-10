@@ -1,0 +1,1 @@
+var QB_SUMMARY = {"tablets":15745,"transactions":59574,"entities":4227,"datedPct":95.0,"receipts":{"n":19639,"qty":296876},"disbursements":{"n":38315,"qty":574891},"transfers":{"n":1620,"qty":41734},"deficit":278015,"deficitPct":48.4,"absMin":26,"absMax":70,"rangeLabel":"Šulgi 26 – Ibbi-Suen 4 (c. 2070–2000 BCE)"};
