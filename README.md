@@ -63,3 +63,7 @@ Research in progress. Not yet peer-reviewed.
 ## Source
 
 Transliterations from the Cuneiform Digital Library Initiative (CDLI), August 2022 bulk dump.
+
+## License
+
+CC-BY 4.0. If you figure out a way to commercialize a database of 4,000-year-old sheep transactions, God bless you. You deserve the money.
