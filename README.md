@@ -60,9 +60,11 @@ Forensic accounting applied to cuneiform: clause-level form grammar → entity r
 
 Research in progress. Not yet peer-reviewed.
 
-## Source
+## Sources
 
 Transliterations from the Cuneiform Digital Library Initiative (CDLI), August 2022 bulk dump.
+
+Cross-archive dates, provenience, and prosopographic data from Manuel Molina's **Database of Neo-Sumerian Texts (BDTNS)** — 105,187 documents, 29 years in the making. Data snapshot via Niek Veldhuis's *Compass* project. https://bdtns.cesga.es/
 
 ## License
 
