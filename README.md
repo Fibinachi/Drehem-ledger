@@ -8,7 +8,7 @@ Drehem (ancient Puzriš-Dagan) was the central clearinghouse for livestock in th
 
 ## The headline finding
 
-They don't balance — and that's the point. Recorded outflows exceed inflows by **~48%** across all commodities. Per published scholarship (Hilgert), delivery receipts were handed to the deliverers, so the archive preserves disbursements far better than receipts. The deficit is a **measurement of archival formation**, not an accounting error: a lower bound on how much of the inflow record is lost.
+They don't balance, but the gap is partly us, not just them. The digitized record shows far more outflows than inflows, which is consistent with published scholarship (Hilgert): delivery receipts were handed to the deliverers, so the archive preserves disbursements better than receipts. But our own recall test showed the parser itself recovers only 12 of 32 receipt formulae (37.5%) against 16 of 17 disbursement formulae (94.1%), so the measured deficit is substantially a measurement artifact. An earlier ~48% deficit figure has been withdrawn; no deficit percentage will be stated until receipt recall is repaired and the analysis re-run. What the imbalance reliably shows is the combined effect of archival formation and parser asymmetry, which is itself a finding about how much of the inflow record is lost at each stage.
 
 ## Key numbers
 
