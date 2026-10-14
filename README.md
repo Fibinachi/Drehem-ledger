@@ -2,6 +2,8 @@
 
 **The oldest reconstructed ledger in the world** — the 4,000-year-old books of the Ur III state's livestock distribution center, rebuilt as a queryable accounting database.
 
+Follow the analysis: [GRID Keeper](https://gridkeeper.substack.com/), a 14QBD273 project.
+
 Drehem (ancient Puzriš-Dagan) was the central clearinghouse for livestock in the Ur III empire (~2100–2000 BCE). Over 15,000 administrative tablets survive, scattered across forty museums after the site was looted from 1909 onward. This project parses them as filled forms and reconstructs the archive as a unified ledger: who received what, who disbursed what, and whether the books balance.
 
 ## The headline finding
