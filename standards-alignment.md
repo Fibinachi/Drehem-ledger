@@ -5,7 +5,7 @@ Status: mapped by the author, 2026-10-25. Not reviewed, endorsed, approved, or a
 Source data: Ur III Puzris-Dagan (Drehem) archive, 15,745 tablets parsed, 59,574 transactions, from CDLI transliterations, first-pass parser output, subject to philological review. See the Auditor's Attestation in the webapp for qualifications, including the 48.4% unreconciled balance, which is structural: sealed intake receipts were kept by the deliverer as proof of delivery.
 
 Interface: https://fibinachi.github.io/Drehem-ledger/webapp/
-Local build with Dashboard charts: ~/workspace/drehem-ledger/webapp/ (not yet pushed to the live site)
+Dashboard charts pushed to main 2026-10-25.
 
 ## South Carolina Social Studies, Grade 6
 
